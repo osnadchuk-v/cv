@@ -20,4 +20,5 @@ Contact
 
 Files
 - Full CV: `OsnadchukVolodymyr.md`
-- Experience summary: `Experience_Summary_en.md`
+- Docx file: `CV_Osnadchuk_V_O.docx`
+- Pdf file: `CV_Osnadchuk_V_O_Frontend developer.pdf`
